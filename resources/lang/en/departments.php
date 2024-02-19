@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'parent' => 'Parent',
+    'name' => 'Name',
+    'edit_department' => 'Edit Department',
+    'update_success' => 'Department updated successfully',
+    'delete_success' => 'Department deleted successfully',
+    'update_error' => 'Error updating department',
+    'create_error' => 'Error creating department',
+    'create_success' => 'Department created successfully',
+    'delete_error' => 'Error deleting department',
+    'manage_users_for_department_x' => 'Manage users for :department',
+    'no_users_assigned' => 'No users assigned',
+    'no_users_assigned_to_the_department' => 'No users assigned to the department',
+    'add' => 'Add',
+    'remove' => 'Remove',
+    'add_user' => 'Add User',
+    'all_users_are_asigned_on_this_department' => 'All users are assigned on this department.',
+    'remove_from_department' => 'Remove from department',
+    'user_added_successfully' => 'User added successfully',
+    'user_removed_successfully' => 'User removed successfully',
+    'show_hierarchy' => 'Show Hierarchy',
+    'create_department' => 'Create Department',
+];
