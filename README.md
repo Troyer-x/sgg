@@ -26,29 +26,37 @@ To get this project up and running, follow these steps:
 
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/Troyer-x/sgg```
+git clone https://github.com/Troyer-x/sgg
+```
 
 2. Navigate to the project folder:
 ```bash
-cd sgg```
+cd sgg
+```
 
 3. Install Composer dependencies:
 ```bash
-composer install```
+composer install
+```
 
 4. Install NPM dependencies:
 ```bash
-npm install```
+npm install
+```
 
 5. Run database migrations:
 ```bash
-php artisan migrate```
+php artisan migrate
+```
 
 6. Seed the database:
 ```bash
-php artisan db:seed```
+php artisan db:seed
+```
 
 7. Compile and run:
 ```bash
-npm run dev```
+npm run dev
+```
